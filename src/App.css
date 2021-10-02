@@ -1,7 +1,14 @@
 .App {
   text-align: center;
+  padding: 30px;
+  margin: 30px;
 }
 
+.searchbar {
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-bottom: 40px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
